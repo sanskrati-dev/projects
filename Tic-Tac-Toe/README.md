@@ -11,8 +11,8 @@ A 2-player terminal-based Tic Tac Toe game built in Java.
 
 ## How to Run
 
-**Compile:** javac Tic_Tac_Toe.java
-**Run:**java Tic_Tac_Toe
+Compile: javac Tic_Tac_Toe.java
+Run: java Tic_Tac_Toe
 
 ## How to Play
 - Players take turns entering row and column numbers (1-3)
